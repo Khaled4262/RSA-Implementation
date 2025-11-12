@@ -16,6 +16,7 @@ This repository contains a Python implementation of RSA encryption and decryptio
     To install dependencies run: pip install gmpy2
   
 **Usage**
+
 Clone the repository and run the script: python RSAFunctions.py
 This will output:
 - Original message
